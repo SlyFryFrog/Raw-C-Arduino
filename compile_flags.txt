@@ -1,0 +1,7 @@
+-DF_CPU=16000000UL
+-mmcu=atmega328p
+-Os
+-Wall
+-mmcu=atmega328p
+-isystem
+/opt/homebrew/opt/avr-gcc@9/avr/include
